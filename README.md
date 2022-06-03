@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SiddharthGautam05
 - 👀 I’m interested in learning new technologies and methodologies in devlopement and analytics field.
 - 🌱 I’m currently learning Data Structures and Algorithms.
-- 👨‍💻 All of my projects are available at My Github
+- 👨‍💻 All of my projects are available at https://github.com/SiddharthGautam05
 - 📫 How to reach me singhsiddharthg05@gmail.com
 
 <!---
